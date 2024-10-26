@@ -6,7 +6,7 @@ function Footer() {
       <p className="text-base font-bold text-white">Anime Hunt</p>
 
       <Image
-        src="/logo.png"
+        src="/assets/logo.png"
         alt="logo"
         width={47}
         height={44}
@@ -15,21 +15,21 @@ function Footer() {
 
       <div className="flex items-center gap-6">
         <Image
-          src="./tiktok.svg"
+          src="./assets/tiktok.svg"
           alt="logo"
           width={19}
           height={19}
           className="object-contain"
         />
         <Image
-          src="./instagram.svg"
+          src="./assets/instagram.svg"
           alt="logo"
           width={19}
           height={19}
           className="object-contain"
         />
         <Image
-          src="./twitter.svg"
+          src="./assets/twitter.svg"
           alt="logo"
           width={19}
           height={19}

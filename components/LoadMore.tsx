@@ -51,7 +51,7 @@ function LoadMore() {
       <section className="flex justify-center items-center w-full mt-4">
         {isLoading ? (
           <Image
-            src="./spinner.svg"
+            src="./assets/spinner.svg"
             alt="spinner"
             width={56}
             height={56}

@@ -34,7 +34,7 @@ function Hero() {
           animate="visible"
           transition={{ duration: 1.2, ease: "easeInOut" }}
           style={{
-            backgroundImage: 'url("/animebg.png")',
+            backgroundImage: 'url("/assets/animebg.png")',
             backgroundPosition: "center",
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
@@ -66,7 +66,7 @@ function Hero() {
             className="flex items-center gap-3"
           >
             <Image
-              src="/logo.png"
+              src="/assets/logo.png"
               alt="logo"
               width={40}
               height={40}

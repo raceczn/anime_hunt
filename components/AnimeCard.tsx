@@ -1,8 +1,8 @@
-"use client"; // Ensure it's marked as a client component
+"use client"; 
 
 import Image from "next/image";
 import Link from "next/link";
-import { MotionDiv } from "./Motion"; // Import MotionDiv from your Motion.tsx
+import { MotionDiv } from "./Motion"; 
 
 const stagger = 0.25;
 
@@ -66,7 +66,7 @@ function AnimeCard({ anime, index }: Prop) {
             {/* Score */}
             <div className="flex items-center gap-1">
               <Image
-                src="/star.svg"
+                src="/assets/star.svg"
                 alt="Score"
                 width={16}
                 height={16}
@@ -81,7 +81,7 @@ function AnimeCard({ anime, index }: Prop) {
           <div className="flex justify-between items-center text-white text-sm">
             <div className="flex items-center gap-1">
               <Image
-                src="/episodes.svg"
+                src="/assets/episodes.svg"
                 alt="Episodes"
                 width={18}
                 height={18}

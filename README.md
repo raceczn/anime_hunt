@@ -40,9 +40,7 @@ To deploy this project run
 ```bash
   npm run dev
 ```
-Open your web browser:
-
-Navigate to http://localhost:3000 to see the app running.
+Open your web browser: Navigate to http://localhost:3000 to see the app running.
 ## License
 
 

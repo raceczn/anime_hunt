@@ -18,7 +18,7 @@ Anime Hunt is a web application that allows users explore anime information, usi
 
 ## Ongoing Development
 
-- **Enhanced Search Bar**: Improvements to the search functionality for faster and more accurate anime lookups.
+- **Search Bar**: Develop the search functionality for faster and more accurate anime lookups.
 - **Interactive Header**: Adding user interactions and dynamic elements to the header section for a more engaging user experience.
 
 
